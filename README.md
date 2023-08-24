@@ -1,7 +1,7 @@
 # E-Commerce Backend
 
 ## Description
-This is a project for the Upenn fullstack development bootcamp. It is the backend for a Ecommerce website
+This is a project for the Upenn fullstack development bootcamp. It is the backend for a Ecommerce website, Starter code provided by the bootcamp. Syntax help provided by google and chatgpt
 
 ## Table of Contents
 - [Installation](#installation)
